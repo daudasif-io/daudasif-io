@@ -3,8 +3,8 @@
 
 <div align="center">
 
-<!-- ROBOT GIF - hosted on giphy CDN, no personal GitHub promotion -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXVhcGpyYTc0dXV1dGZmNHplNmd6eTlndXFteTFvZzQ5NHJzaGMyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RbDKaczqWovIugyJmW/giphy.gif" width="150" alt="robot"/>
+<!-- ROBOT - orange robot with antenna matching reference style -->
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="150" alt="robot"/>
 
 <br/>
 
@@ -98,8 +98,6 @@ const daud = {
 
 ---
 
-## 🐍 Contribution Snake
-
 <div align="center">
 
 <picture>
@@ -128,5 +126,7 @@ const daud = {
 
 </div>
 
-<!-- FOOTER WAVE -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn)
+---
+
+<!-- BOAT WAVE FOOTER using capsule-render shark type which creates wave with object -->
+![footer](https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=140&section=footer&animation=fadeIn&fontColor=c9a84c&fontSize=14&text=LAHORE%20·%20PAKISTAN%20·%20BUILDING%20THE%20FUTURE&fontAlignY=80&desc=daudasif-io&descAlignY=95&descAlign=50)
