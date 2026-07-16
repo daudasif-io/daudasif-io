@@ -3,22 +3,18 @@
 
 <div align="center">
 
-<!-- ROBOT + NAME side by side using table -->
-<table border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td width="180" align="center" valign="middle">
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="160" />
-</td>
-<td align="left" valign="middle" style="padding-left:20px">
+<!-- ROBOT GIF - hosted on giphy CDN, no personal GitHub promotion -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXVhcGpyYTc0dXV1dGZmNHplNmd6eTlndXFteTFvZzQ5NHJzaGMyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RbDKaczqWovIugyJmW/giphy.gif" width="150" alt="robot"/>
+
+<br/>
 
 # DAUD ASIF
+
 ### Full Stack Developer · Cinematic UI · Next.js · React · Node.js
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=C9A84C&vCenter=true&width=500&lines=Building+Premium+Web+Products;Next.js+%2B+React+%2B+Node.js;Cinematic+UI+%26+GSAP+Animations;Three.js+%26+WebGL+3D+Experiences;Open+to+International+Clients)](https://git.io/typing-svg)
+<br/>
 
-</td>
-</tr>
-</table>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=C9A84C&center=true&vCenter=true&width=600&lines=Building+Premium+Web+Products;Next.js+%2B+React+%2B+Node.js;Cinematic+UI+%26+GSAP+Animations;Three.js+%26+WebGL+3D+Experiences;Open+to+International+Clients)](https://git.io/typing-svg)
 
 <br/>
 
@@ -94,9 +90,7 @@ const daud = {
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daudasif-io&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=c9a84c&icon_color=c9a84c&text_color=ffffff&border_color=c9a84c&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daudasif-io&layout=compact&theme=dark&bg_color=0d0d0d&title_color=c9a84c&text_color=ffffff&border_color=c9a84c&langs_count=8"/>
 
-</div>
-
-<div align="center">
+<br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=daudasif-io&theme=dark&background=0d0d0d&border=c9a84c&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&sideLabels=c9a84c&dates=ffffff)](https://git.io/streak-stats)
 
@@ -109,9 +103,9 @@ const daud = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/daudasif-io/daudasif-io/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/daudasif-io/daudasif-io/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://github.com/daudasif-io/daudasif-io/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daudasif-io/daudasif-io/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daudasif-io/daudasif-io/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/daudasif-io/daudasif-io/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
@@ -122,9 +116,8 @@ const daud = {
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
 **I build complete web products — from database architecture to cinematic frontend experiences.**
+**If you have a project in mind, let's talk.**
 
 <br/>
 
