@@ -1,20 +1,8 @@
-<!-- TOP WAVE -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=DAUD%20ASIF&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cinematic%20UI%20%7C%20Next.js%20%7C%20React%20%7C%20Node.js&descAlignY=58&descAlign=50)
 
 <div align="center">
 
-<!-- ROBOT - orange robot with antenna matching reference style -->
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="150" alt="robot"/>
-
-<br/>
-
-# DAUD ASIF
-
-### Full Stack Developer · Cinematic UI · Next.js · React · Node.js
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=C9A84C&center=true&vCenter=true&width=600&lines=Building+Premium+Web+Products;Next.js+%2B+React+%2B+Node.js;Cinematic+UI+%26+GSAP+Animations;Three.js+%26+WebGL+3D+Experiences;Open+to+International+Clients)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C9A84C&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;Next.js+%2B+React+%2B+Node.js;Cinematic+UI+%26+GSAP+Animations;Three.js+%26+WebGL+3D+Experiences;Building+Premium+Products+That+Convert)](https://git.io/typing-svg)
 
 <br/>
 
@@ -126,7 +114,4 @@ const daud = {
 
 </div>
 
----
-
-<!-- BOAT WAVE FOOTER using capsule-render shark type which creates wave with object -->
-![footer](https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=140&section=footer&animation=fadeIn&fontColor=c9a84c&fontSize=14&text=LAHORE%20·%20PAKISTAN%20·%20BUILDING%20THE%20FUTURE&fontAlignY=80&desc=daudasif-io&descAlignY=95&descAlign=50)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn)
