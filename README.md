@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=DAUD%20ASIF&fontSize=65&fontColor=e8e8e8&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%40%20CODVAX%20%7C%20Next.js%20%7C%20React%20%7C%20Node.js%20%7C%20Cinematic%20UI&descAlignY=60&descAlign=50&descSize=16&descColor=909090)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0,0,0&height=220&section=header&text=DAUD%20ASIF&fontSize=65&fontColor=e8e8e8&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%40%20CODVAX%20%7C%20Next.js%20%7C%20React%20%7C%20Node.js%20%7C%20Cinematic%20UI&descAlignY=60&descAlign=50&descSize=16&descColor=909090&stroke=404040&strokeWidth=1)
 
 <div align="center">
 
@@ -77,10 +77,14 @@ const daud = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=daudasif-io&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=c0c0c0&icon_color=808080&text_color=a0a0a0&border_color=404040&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daudasif-io&layout=compact&theme=dark&bg_color=0d0d0d&title_color=c0c0c0&text_color=a0a0a0&border_color=404040&langs_count=8"/>
+<a href="https://github.com/daudasif-io">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daudasif-io&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=c0c0c0&icon_color=808080&text_color=a0a0a0&border_color=404040&count_private=true&cache_seconds=1800" />
+</a>
+<a href="https://github.com/daudasif-io">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daudasif-io&layout=compact&theme=dark&bg_color=0d0d0d&title_color=c0c0c0&text_color=a0a0a0&border_color=404040&langs_count=8&cache_seconds=1800" />
+</a>
 
-<br/>
+<br/><br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=daudasif-io&theme=dark&background=0d0d0d&border=404040&ring=c0c0c0&fire=808080&currStreakLabel=c0c0c0&sideLabels=808080&dates=606060)](https://git.io/streak-stats)
 
@@ -92,13 +96,11 @@ const daud = {
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daudasif-io/daudasif-io/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daudasif-io/daudasif-io/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/daudasif-io/daudasif-io/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/daudasif-io/daudasif-io/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
+
+> **Note:** If the snake above appears black, go to **Actions** tab on this repo → click **Generate Snake** workflow → click **Run workflow**. It regenerates in ~30 seconds.
 
 ---
 
@@ -111,11 +113,11 @@ const daud = {
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=c0c0c0)](https://daud-portfolio-five.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=c0c0c0)](https://daud-portfolio-five.vercel.app)
 [![Upwork](https://img.shields.io/badge/Upwork-000000?style=for-the-badge&logo=upwork&logoColor=c0c0c0)](https://www.upwork.com/freelancers/daudasif)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=c0c0c0)](https://linkedin.com/in/daudasif-dev)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=c0c0c0)](mailto:daudasif1213@gmail.com)
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0,0,0&height=120&section=footer&animation=fadeIn&stroke=404040&strokeWidth=1)
