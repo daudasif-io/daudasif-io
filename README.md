@@ -1,4 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0,0,0&height=220&section=header&text=DAUD%20ASIF&fontSize=65&fontColor=e8e8e8&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%40%20CODVAX%20%7C%20Next.js%20%7C%20React%20%7C%20Node.js%20%7C%20Cinematic%20UI&descAlignY=60&descAlign=50&descSize=16&descColor=909090&stroke=404040&strokeWidth=1)
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=0,2,4,0,2,4&height=280&section=header&text=DAUD%20ASIF&fontSize=72&fontColor=e8e8e8&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Developer%20%40%20CODVAX%20%7C%20Next.js%20%7C%20React%20%7C%20Node.js%20%7C%20Cinematic%20UI&descAlignY=62&descAlign=50&descSize=17&descColor=a0a0a0)
+
+</div>
 
 <div align="center">
 
@@ -77,12 +81,8 @@ const daud = {
 
 <div align="center">
 
-<a href="https://github.com/daudasif-io">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daudasif-io&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=c0c0c0&icon_color=808080&text_color=a0a0a0&border_color=404040&count_private=true&cache_seconds=1800" />
-</a>
-<a href="https://github.com/daudasif-io">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daudasif-io&layout=compact&theme=dark&bg_color=0d0d0d&title_color=c0c0c0&text_color=a0a0a0&border_color=404040&langs_count=8&cache_seconds=1800" />
-</a>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=daudasif-io&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=c0c0c0&icon_color=808080&text_color=a0a0a0&border_color=404040&count_private=true" />
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=daudasif-io&layout=compact&theme=dark&bg_color=0d0d0d&title_color=c0c0c0&text_color=a0a0a0&border_color=404040&langs_count=8" />
 
 <br/><br/>
 
@@ -100,8 +100,6 @@ const daud = {
 
 </div>
 
-> **Note:** If the snake above appears black, go to **Actions** tab on this repo → click **Generate Snake** workflow → click **Run workflow**. It regenerates in ~30 seconds.
-
 ---
 
 ## 🤝 Work With Me
@@ -118,6 +116,8 @@ const daud = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=c0c0c0)](https://linkedin.com/in/daudasif-dev)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=c0c0c0)](mailto:daudasif1213@gmail.com)
 
-</div>
+<br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0,0,0&height=120&section=footer&animation=fadeIn&stroke=404040&strokeWidth=1)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=0,2,4,0,2,4&height=160&section=footer&animation=fadeIn)
+
+</div>
