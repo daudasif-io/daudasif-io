@@ -1,13 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=DAUD%20ASIF&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cinematic%20UI%20%7C%20Next.js%20%7C%20React%20%7C%20Node.js&descAlignY=58&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=DAUD%20ASIF&fontSize=65&fontColor=e8e8e8&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%40%20CODVAX%20%7C%20Next.js%20%7C%20React%20%7C%20Node.js%20%7C%20Cinematic%20UI&descAlignY=60&descAlign=50&descSize=16&descColor=909090)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C9A84C&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;Next.js+%2B+React+%2B+Node.js;Cinematic+UI+%26+GSAP+Animations;Three.js+%26+WebGL+3D+Experiences;Building+Premium+Products+That+Convert)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=C0C0C0&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer+%40+CODVAX;Next.js+%2B+React+%2B+Node.js+%2B+PostgreSQL;Cinematic+UI+%26+GSAP+Animations;Three.js+%26+WebGL+3D+Experiences;SaaS+%7C+E-Commerce+%7C+REST+APIs;Building+Premium+Products+That+Convert)](https://git.io/typing-svg)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=daudasif-io&color=c9a84c&style=flat-square&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/daudasif-io?label=Followers&style=flat-square&color=c9a84c)](https://github.com/daudasif-io)
+![Profile Views](https://komarev.com/ghpvc/?username=daudasif-io&color=808080&style=flat-square&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/daudasif-io?label=Followers&style=flat-square&color=808080)](https://github.com/daudasif-io)
 
 </div>
 
@@ -17,19 +17,19 @@
 
 ```typescript
 const daud = {
-  role        : "Full Stack Web Developer",
+  name        : "Daud Asif",
+  studio      : "CODVAX — Full Stack Dev Studio",
   location    : "Lahore, Pakistan 🇵🇰",
   available   : "Open to International Clients",
-  focus       : ["Cinematic UI", "SaaS Apps", "3D Experiences"],
 
-  frontend    : ["Next.js 15", "React", "TypeScript", "GSAP", "Three.js", "Tailwind CSS"],
-  backend     : ["Node.js", "Express.js", "REST APIs", "JWT Auth"],
-  database    : ["MySQL", "PostgreSQL", "Prisma ORM"],
-  deployment  : ["Vercel", "Railway", "Custom Domain & Hosting"],
+  frontend    : ["Next.js 15", "React", "TypeScript", "GSAP", "Three.js", "React Three Fiber", "Tailwind CSS", "Framer Motion"],
+  backend     : ["Node.js", "Express.js", "Python", "Flask", "REST APIs", "JWT Auth"],
+  database    : ["PostgreSQL", "MySQL", "Prisma ORM"],
+  deployment  : ["Vercel", "Railway", "Neon", "Custom Domain & Hosting"],
 
-  currentlyBuilding : "SaaS Dashboard — Next.js + Node.js + PostgreSQL",
-  lookingFor        : "International clients who want premium web products",
-  portfolio         : "https://daud-portfolio-five.vercel.app",
+  speciality  : ["Cinematic UI", "3D Web Experiences", "SaaS Apps", "E-Commerce"],
+  lookingFor  : "International clients who want premium web products",
+  portfolio   : "https://daud-portfolio-five.vercel.app",
 };
 ```
 
@@ -37,13 +37,14 @@ const daud = {
 
 ## 🚀 Live Projects
 
-| Project | Stack | Live |
-|---|---|---|
-| 🎨 **Personal Portfolio** | Next.js 15, Three.js, GSAP, Web Audio API | [daud-portfolio-five.vercel.app](https://daud-portfolio-five.vercel.app) |
-| ⚡ **Kinetix Agency Site** | Vanilla Three.js, GSAP, Blender 3D, Web Audio | [kinetix-zeta.vercel.app](https://kinetix-zeta.vercel.app) |
-| 🛒 **Luxe Store E-Commerce** | React, Flask, MySQL, JWT Auth, Admin Dashboard | [luxe-store-v2-ten.vercel.app](https://luxe-store-v2-ten.vercel.app) |
-| 📖 **Strahlborn Archive** | Next.js, GSAP, Canvas API, Parallax | [strahlborn-derionzini.vercel.app](https://strahlborn-derionzini.vercel.app) |
-| 🌐 **Spectra Shield 3D** | React Three Fiber, Custom 3D Models, WebGL | [spectra-shield.vercel.app](https://spectra-shield.vercel.app) |
+| &nbsp; | Project | Stack | Live |
+|---|---|---|---|
+| 🎨 | **Personal Portfolio** | Next.js 15 · Three.js · GSAP · Web Audio API | [daud-portfolio-five.vercel.app](https://daud-portfolio-five.vercel.app) |
+| ⚡ | **Kinetix Agency Site** | Vanilla Three.js · GSAP · Blender 3D · Web Audio | [kinetix-zeta.vercel.app](https://kinetix-zeta.vercel.app) |
+| 📊 | **NexDash SaaS Dashboard** | Next.js 15 · PostgreSQL · Prisma · JWT · Recharts | [nexdash-six.vercel.app](https://nexdash-six.vercel.app) |
+| 🛒 | **Luxe Store E-Commerce** | React · Flask · MySQL · JWT · Admin Dashboard | [luxe-store-v2-ten.vercel.app](https://luxe-store-v2-ten.vercel.app) |
+| 📖 | **Strahlborn Archive** | Next.js · GSAP · Canvas API · Parallax | [strahlborn-derionzini.vercel.app](https://strahlborn-derionzini.vercel.app) |
+| 🌐 | **Spectra Shield 3D** | React Three Fiber · Custom 3D Models · WebGL | [spectra-shield.vercel.app](https://spectra-shield.vercel.app) |
 
 ---
 
@@ -51,21 +52,22 @@ const daud = {
 
 <div align="center">
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=c0c0c0)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=c0c0c0)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=c0c0c0)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=c0c0c0)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=c0c0c0)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=c0c0c0)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=c0c0c0)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=c0c0c0)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=c0c0c0)
+![Prisma](https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=c0c0c0)
+![GSAP](https://img.shields.io/badge/GSAP-000000?style=for-the-badge&logo=greensock&logoColor=c0c0c0)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=c0c0c0)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=c0c0c0)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=c0c0c0)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=c0c0c0)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=c0c0c0)
 
 </div>
 
@@ -75,16 +77,18 @@ const daud = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=daudasif-io&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=c9a84c&icon_color=c9a84c&text_color=ffffff&border_color=c9a84c&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daudasif-io&layout=compact&theme=dark&bg_color=0d0d0d&title_color=c9a84c&text_color=ffffff&border_color=c9a84c&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=daudasif-io&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=c0c0c0&icon_color=808080&text_color=a0a0a0&border_color=404040&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daudasif-io&layout=compact&theme=dark&bg_color=0d0d0d&title_color=c0c0c0&text_color=a0a0a0&border_color=404040&langs_count=8"/>
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=daudasif-io&theme=dark&background=0d0d0d&border=c9a84c&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&sideLabels=c9a84c&dates=ffffff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=daudasif-io&theme=dark&background=0d0d0d&border=404040&ring=c0c0c0&fire=808080&currStreakLabel=c0c0c0&sideLabels=808080&dates=606060)](https://git.io/streak-stats)
 
 </div>
 
 ---
+
+## 🐍 Contribution Activity
 
 <div align="center">
 
@@ -107,11 +111,11 @@ const daud = {
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0d0d0d?style=for-the-badge)](https://daud-portfolio-five.vercel.app)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/daudasif)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daudasif-dev)
-[![Email](https://img.shields.io/badge/Email-c9a84c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daudasif1213@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=c0c0c0)](https://daud-portfolio-five.vercel.app)
+[![Upwork](https://img.shields.io/badge/Upwork-000000?style=for-the-badge&logo=upwork&logoColor=c0c0c0)](https://www.upwork.com/freelancers/daudasif)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=c0c0c0)](https://linkedin.com/in/daudasif-dev)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=c0c0c0)](mailto:daudasif1213@gmail.com)
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn)
