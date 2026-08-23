@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=131313&height=280&section=header&text=DAUD%20ASIF&fontSize=72&fontColor=e8e8e8&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Developer%20%40%20CODVAX%20%7C%20Next.js%20%7C%20React%20%7C%20Node.js%20%7C%20Cinematic%20UI&descAlignY=62&descAlign=50&descSize=17&descColor=a0a0a0)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=280&section=header&text=DAUD%20ASIF&fontSize=72&fontColor=e8e8e8&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Developer%20%40%20CODVAX%20%7C%20Next.js%20%7C%20React%20%7C%20Node.js%20%7C%20Cinematic%20UI&descAlignY=62&descAlign=50&descSize=17&descColor=a0a0a0)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=C0C0C0&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer+%40+CODVAX;Next.js+%2B+React+%2B+Node.js+%2B+PostgreSQL;Cinematic+UI+%26+GSAP+Animations;Three.js+%26+WebGL+3D+Experiences;SaaS+%7C+E-Commerce+%7C+REST+APIs;Building+Premium+Products+That+Convert)](https://git.io/typing-svg)
 
@@ -114,6 +114,6 @@ const daud = {
 
 <br/><br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=131313&height=160&section=footer&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=160&section=footer&animation=fadeIn)
 
 </div>
